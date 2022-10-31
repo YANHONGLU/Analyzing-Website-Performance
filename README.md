@@ -2,7 +2,8 @@
 
 1)Objects and findings:
 
-1. identify top website pages
+
+1.identify top website pages
 
 2.Identify which of the 2 existing home pages has more traffic.This was achieved by A/B test.
 
@@ -37,3 +38,11 @@ Task 1 IDENTIFYING TOP WEBSITE PAGES
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/74843963/199113430-03696045-a176-456c-b68c-11c05fdcaafb.png">
 
 
+Task 2 IDENTIFYING TOP ENTRY PAGES
+
+<img width="183" alt="image" src="https://user-images.githubusercontent.com/74843963/199113568-bac96838-116b-4626-a6e2-8f611de1b366.png">
+
+
+Task 3 CALCULATING BOUNCE RATES(Homepage)
+
+<img width="186" alt="image" src="https://user-images.githubusercontent.com/74843963/199114461-71bd2411-2843-4ada-9e9d-37bfb263e868.png">
