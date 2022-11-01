@@ -59,3 +59,15 @@ Task 5 Check lander change has improved the overall picture
 <img width="211" alt="image" src="https://user-images.githubusercontent.com/74843963/199226423-7943d962-3c69-4388-aea7-2def5c739ee5.png">
 
 
+
+Task 6 Analyzing Conversion Funnels
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/74843963/199251339-e9bac14e-2ff5-4ff3-843b-cd78180ca8b0.png">
+
+
+
+ Task 7 Conversion Funnel Test Results ( A/B test billing page)
+ 
+ <img width="239" alt="image" src="https://user-images.githubusercontent.com/74843963/199255224-0a58b84f-3dfc-4cb5-aee7-802386e5d7f8.png">
+
+
