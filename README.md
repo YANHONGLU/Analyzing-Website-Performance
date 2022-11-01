@@ -46,3 +46,16 @@ Task 2 IDENTIFYING TOP ENTRY PAGES
 Task 3 CALCULATING BOUNCE RATES(Homepage)
 
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/74843963/199114461-71bd2411-2843-4ada-9e9d-37bfb263e868.png">
+
+
+
+Task 4 ANALYZING LANDING PAGE TESTS(A/B test, check)
+
+<img width="170" alt="image" src="https://user-images.githubusercontent.com/74843963/199215220-ca22769c-c093-4c05-a04d-5447f55e00b4.png">
+
+
+Task 5 Check lander change has improved the overall picture
+
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/74843963/199226423-7943d962-3c69-4388-aea7-2def5c739ee5.png">
+
+
